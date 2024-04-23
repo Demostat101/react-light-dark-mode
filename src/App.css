@@ -9,7 +9,7 @@
 
 [data-theme='light'] {
     --bg-color:#ffffff ;
-    --text-color: #ffffff;
+    --text-color: #222222;
     --heading-color: green;
 }
 
@@ -72,7 +72,7 @@ ul {
 h1{
     text-align: center;
     margin-top: 3em;
-    color: var(--header-color);
+    color: var(--heading-color);
 }
 
 p {

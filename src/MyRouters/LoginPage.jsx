@@ -33,10 +33,7 @@ let LoginPage = () => {
   return (
     <>
       <div className="Login">
-        <div className="nav">
-          <NavBar />
-        </div>
-
+        
         <div className="inputForm">
 
                 <form action="">
